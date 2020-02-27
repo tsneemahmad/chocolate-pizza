@@ -1,0 +1,98 @@
+div {
+    /* text-align: center; */
+margin: 1% 10% 3% 10%;
+background-color: #F5F5F5;
+}
+#logo #title {
+    display: inline-block;
+}
+#description {
+    text-transform: uppercase;
+    font-size: 10px;
+}
+#logo {
+    float: left;
+    margin-right: 10px;
+    width: 2%;
+    margin-left: 15%;
+}
+#icons {
+    float: right;
+    margin-right: 15%;
+    /* width: 10px; */
+}
+#icon-space {
+    margin-left: 10px;
+}
+article section h1 {
+    margin-left: 15%;
+}
+#date {
+    font-size: 11px;
+    margin-left: 15%;
+    text-transform: uppercase;
+}
+#print-text{
+    float: right;
+    margin-right: 18%;
+    margin-left: .1%;
+    text-transform: uppercase;
+}
+#print {
+    float: right;
+width: 12px;
+}
+#main-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+.paragraph {
+    font-size: 15px ;
+    margin: 2% 15% 2% 15%;
+text-indent: 3%;
+}
+#list {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+#first {
+margin-left: 10%;
+}
+#second {
+    float: right;
+}
+#van-pic{
+    float: left;
+    margin-top: 3%;
+    margin-left:  15%;
+    margin-bottom: 7%;
+}
+#van-pic #van-p {
+    display: inline-block;
+}
+#van-p {
+    font-size: 15px;
+    /* float: left;
+    margin-right: 10px;
+    margin-left: 15%; */
+}
+#samll-logo {
+    position: relative;
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+button {
+    float: right;
+   background-color: red;
+   color: white;
+   padding: 10px;
+}
+footer {
+    text-align: center;
+}
