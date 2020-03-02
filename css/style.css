@@ -60,8 +60,77 @@ width: 12px;
     text-indent: 3%;
     color: darkgrey;
 }
-.list {
+.cont{
     position: relative;
+}
+.img-list img {
+    width: 100%;
+    padding-bottom: 40px;
+}
+#lable1 {
+    position: absolute;
+    margin-left: 60px;
+    margin-top: -279px;
+}
+#lable-2 {
+    position: absolute;
+    margin-top: -251px;
+    margin-left: 60px;
+}
+#lable-3 {
+    position: absolute;
+    margin-top: -223px;
+    margin-left: 60px;
+}
+#lable-4 {
+    position: absolute;
+    margin-top: -196px;
+    margin-left: 60px;
+}
+#lable-5 {
+    position: absolute;
+    margin-top: -169px;
+    margin-left: 60px;
+}
+#lable-6 {
+    position: absolute;
+    margin-top: -142px;
+    margin-left: 60px;
+}
+#lable-7 {
+    position: absolute;
+    margin-top: -140px;
+    margin-left: 460px;
+}
+#lable-8 {
+    position: absolute;
+    margin-top: -169px;
+    margin-left: 460px;
+}
+#lable-9 {
+    position: absolute;
+    margin-top: -197px;
+    margin-left: 460px;
+}
+#lable-10 {
+    position: absolute;
+    margin-top: -224px;
+    margin-left: 460px;
+}
+#lable-11 {
+    position: absolute;
+    margin-top: -252px;
+    margin-left: 460px;
+}
+#lable-12 {
+    position: absolute;
+    margin-top: -280px;
+    margin-left: 460px;
+}
+.line-decr{
+    text-decoration: line-through;
+}
+/* .list {
     display: block;
     margin-left: 15%;
     margin-right: 15%;
@@ -69,14 +138,18 @@ width: 12px;
 .first-list {
     position: absolute;
     float: left;
+    margin-left: 155px;
+    margin-top: 66px;
     margin-left: 15%;
     margin-bottom: 55%;
 }
 .second-list {
     position: absolute;
-    float: right;
-    margin-left: 50%;
-}
+    float: left;
+    margin-right: -250;
+    margin-top: 66px;
+    margin-left: 80%;
+} */
 #van-pic{
     float: left;
     margin-top: 3%;
