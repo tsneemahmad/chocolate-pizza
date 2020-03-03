@@ -9,6 +9,8 @@ background-color: #F5F5F5;
 #description {
     text-transform: uppercase;
     font-size: 10px;
+    color: darkgrey;
+
 }
 #logo {
     float: left;
@@ -31,12 +33,16 @@ article section h1 {
     font-size: 11px;
     margin-left: 15%;
     text-transform: uppercase;
+    color: darkgrey;
+
 }
 #print-text{
     float: right;
     margin-right: 18%;
     margin-left: .1%;
     text-transform: uppercase;
+    color: darkgrey;
+
 }
 #print {
     float: right;
@@ -51,20 +57,99 @@ width: 12px;
 .paragraph {
     font-size: 15px ;
     margin: 2% 15% 2% 15%;
-text-indent: 3%;
+    text-indent: 3%;
+    color: darkgrey;
 }
-#list {
+.cont{
+    position: relative;
+}
+.img-list img {
+    width: 100%;
+    padding-bottom: 40px;
+}
+#lable1 {
+    position: absolute;
+    margin-left: 60px;
+    margin-top: -279px;
+}
+#lable-2 {
+    position: absolute;
+    margin-top: -251px;
+    margin-left: 60px;
+}
+#lable-3 {
+    position: absolute;
+    margin-top: -223px;
+    margin-left: 60px;
+}
+#lable-4 {
+    position: absolute;
+    margin-top: -196px;
+    margin-left: 60px;
+}
+#lable-5 {
+    position: absolute;
+    margin-top: -169px;
+    margin-left: 60px;
+}
+#lable-6 {
+    position: absolute;
+    margin-top: -142px;
+    margin-left: 60px;
+}
+#lable-7 {
+    position: absolute;
+    margin-top: -140px;
+    margin-left: 460px;
+}
+#lable-8 {
+    position: absolute;
+    margin-top: -169px;
+    margin-left: 460px;
+}
+#lable-9 {
+    position: absolute;
+    margin-top: -197px;
+    margin-left: 460px;
+}
+#lable-10 {
+    position: absolute;
+    margin-top: -224px;
+    margin-left: 460px;
+}
+#lable-11 {
+    position: absolute;
+    margin-top: -252px;
+    margin-left: 460px;
+}
+#lable-12 {
+    position: absolute;
+    margin-top: -280px;
+    margin-left: 460px;
+}
+.line-decr{
+    text-decoration: line-through;
+}
+/* .list {
     display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 70%;
+    margin-left: 15%;
+    margin-right: 15%;
 }
-#first {
-margin-left: 10%;
+.first-list {
+    position: absolute;
+    float: left;
+    margin-left: 155px;
+    margin-top: 66px;
+    margin-left: 15%;
+    margin-bottom: 55%;
 }
-#second {
-    float: right;
-}
+.second-list {
+    position: absolute;
+    float: left;
+    margin-right: -250;
+    margin-top: 66px;
+    margin-left: 80%;
+} */
 #van-pic{
     float: left;
     margin-top: 3%;
@@ -76,6 +161,8 @@ margin-left: 10%;
 }
 #van-p {
     font-size: 15px;
+    color: darkgrey;
+
     /* float: left;
     margin-right: 10px;
     margin-left: 15%; */
